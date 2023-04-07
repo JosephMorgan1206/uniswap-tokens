@@ -32,7 +32,7 @@
             "symbol": "WDOT",
             "name": "WDOT",
             "address": "0xFFfFfFffFFfffFFfFFfFFFFFffFFFffffFfFFFfF",
-            "decimals": 16,
+            "decimals": 10,
             "chainId": 592,
             "logoURI": "https://assets.coingecko.com/coins/images/12171/small/polkadot.png?1639712644"
         },
@@ -104,7 +104,7 @@
             "symbol": "BUSD",
             "name": "Binance USD",
             "address": "0x4Bf769b05E832FCdc9053fFFBC78Ca889aCb5E1E",
-            "decimals": 6,
+            "decimals": 18,
             "chainId": 592,
             "logoURI": "https://assets.coingecko.com/coins/images/9576/small/BUSD.png?1568947766"
         },
