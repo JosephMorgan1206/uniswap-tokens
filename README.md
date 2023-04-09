@@ -1,1 +1,1 @@
-# These are uniswap-tokens on Astar network
+# These are Uniswap V3 tokens on Astar network
