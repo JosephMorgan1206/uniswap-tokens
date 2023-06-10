@@ -1,48 +1,48 @@
 {
-    "name": "Astar Labs Default",
-    "timestamp": "2023-03-24T17:25:15.361Z",
-    "version": {
-        "major": 2,
-        "minor": 16,
-        "patch": 13
+  "name": "PancakeSwap Top 100",
+  "timestamp": "2022-05-28T04:52:56.475Z",
+  "version": {
+    "major": 2,
+    "minor": 16,
+    "patch": 13
+  },
+  "logoURI": "https://pancakeswap.finance/logo.png",
+  "keywords": [
+    "pancakeswap",
+    "top 100"
+  ],
+  "tokens": [
+    {
+      "name": "USD//C",
+      "symbol": "USDC",
+      "address": "0x0faF6df7054946141266420b43783387A78d82A9",
+      "chainId": 280,
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/25795/small/WKBrkX4y_400x400.png?1653920060"
     },
-    "logoURI": "https://pancakeswap.finance/logo.png",
-    "keywords": [
-        "uniswap",
-        "astar"
-    ],
-    "tokens": [
-        {
-            "symbol": "USDC",
-            "name": "USD//C",
-            "address": "0x0faF6df7054946141266420b43783387A78d82A9",
-            "decimals": 18,
-            "chainId": 280,
-            "logoURI": "https://assets.coingecko.com/coins/images/25795/small/WKBrkX4y_400x400.png?1653920060"
-        },
-        {
-            "symbol": "DAI",
-            "name": "Dai Stablecoin",
-            "address": "0x3e7676937A7E96CFB7616f255b9AD9FF47363D4b",
-            "decimals": 18,
-            "chainId": 280,
-            "logoURI": "https://assets.coingecko.com/coins/images/25795/small/WKBrkX4y_400x400.png?1653920060"
-        },
-        {
-            "symbol": "LINK",
-            "name": "LINK Token",
-            "address": "0x40609141Db628BeEE3BfAB8034Fc2D8278D0Cc78",
-            "decimals": 18,
-            "chainId": 280,
-            "logoURI": "https://assets.coingecko.com/coins/images/25795/small/WKBrkX4y_400x400.png?1653920060"
-        },
-        {
-            "symbol": "WETH",
-            "name": "Wrapped Ether",
-            "address": "0x20b28B1e4665FFf290650586ad76E977EAb90c5D",
-            "decimals": 18,
-            "chainId": 280,
-            "logoURI": "https://assets.coingecko.com/coins/images/25795/small/WKBrkX4y_400x400.png?1653920060"
-        },
-    ]
+    {
+      "name": "Dai Stablecoin",
+      "symbol": "DAI",
+      "address": "0x3e7676937A7E96CFB7616f255b9AD9FF47363D4b",
+      "chainId": 280,
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/25795/small/WKBrkX4y_400x400.png?1653920060"
+    },
+    {
+      "name": "LINK Token",
+      "symbol": "LINK",
+      "address": "0x40609141Db628BeEE3BfAB8034Fc2D8278D0Cc78",
+      "chainId": 280,
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/25795/small/WKBrkX4y_400x400.png?1653920060"
+    },
+    {
+      "name": "Wrapped Ether",
+      "symbol": "WETH",
+      "address": "0x20b28B1e4665FFf290650586ad76E977EAb90c5D",
+      "chainId": 280,
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/25795/small/WKBrkX4y_400x400.png?1653920060"
+    }
+  ]
 }
