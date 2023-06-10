@@ -18,7 +18,7 @@
       "address": "0x0faF6df7054946141266420b43783387A78d82A9",
       "chainId": 280,
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/25795/small/WKBrkX4y_400x400.png?1653920060"
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png"
     },
     {
       "name": "Dai Stablecoin",
@@ -26,7 +26,7 @@
       "address": "0x3e7676937A7E96CFB7616f255b9AD9FF47363D4b",
       "chainId": 280,
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/25795/small/WKBrkX4y_400x400.png?1653920060"
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xaD6D458402F60fD3Bd25163575031ACDce07538D/logo.png"
     },
     {
       "name": "LINK Token",
@@ -34,7 +34,7 @@
       "address": "0x40609141Db628BeEE3BfAB8034Fc2D8278D0Cc78",
       "chainId": 280,
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/25795/small/WKBrkX4y_400x400.png?1653920060"
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x514910771AF9Ca656af840dff83E8264EcF986CA/logo.png"
     },
     {
       "name": "Wrapped Ether",
@@ -42,7 +42,15 @@
       "address": "0x20b28B1e4665FFf290650586ad76E977EAb90c5D",
       "chainId": 280,
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/25795/small/WKBrkX4y_400x400.png?1653920060"
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png"
+    },
+    {
+      "name": "Wrapped BTC",
+      "symbol": "WBTC",
+      "address": "0x68f180fcCe6836688e9084f035309E29Bf0A2095",
+      "chainId": 280,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599/logo.png"
     }
   ]
 }
