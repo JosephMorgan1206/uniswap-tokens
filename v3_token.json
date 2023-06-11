@@ -51,6 +51,175 @@
       "chainId": 280,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599/logo.png"
+    },
+    
+    {
+      "name": "USD//C",
+      "symbol": "USDC",
+      "address": "0xA0D71B9877f44C744546D649147E3F1e70a93760",
+      "chainId": 534353,
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png"
+    },
+    {
+      "name": "Dai Stablecoin",
+      "symbol": "DAI",
+      "address": "0x7984E363c38b590bB4CA35aEd5133Ef2c6619C40",
+      "chainId": 534353,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x6B175474E89094C44Da98b954EedeAC495271d0F/logo.pngg"
+    },
+    {
+      "name": "Binance USD",
+      "symbol": "BUSD",
+      "address": "0x5a771858968b3670852ABCDf4C7dC18B6b2D7b22",
+      "chainId": 534353,
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/9576/thumb/BUSD.png?1568947766"
+    },
+    {
+      "name": "Wrapped Ether",
+      "symbol": "WETH",
+      "address": "0xa1EA0B2354F5A344110af2b6AD68e75545009a03",
+      "chainId": 534353,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png"
+    },
+    {
+      "name": "Tether USD",
+      "symbol": "USDT",
+      "address": "0xf2719572e4E9369cDC061Ef602D0F20f8a42234d",
+      "chainId": 534353,
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png"
+    },
+    {
+      "name": "Mech Swap Token",
+      "symbol": "Mech",
+      "address": "0x72B42b8d5e75be99c18859626b2105599DE37795",
+      "chainId": 534353,
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/17139/thumb/10631.png?1635718182"
+    },
+    {
+      "name": "Koinark Dex Token",
+      "symbol": "KOI",
+      "address": "0x29c66B87Fb3B3FEf0554963130Cb8aeD12Eb87C5",
+      "chainId": 534353,
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/13397/thumb/Graph_Token.png?1608145566g"
+    },
+    {
+      "name": "USD//C",
+      "symbol": "USDC",
+      "address": "0x7b4Adf64B0d60fF97D672E473420203D52562A84",
+      "chainId": 84531,
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png"
+    },
+    {
+      "name": "Dai Stablecoin",
+      "symbol": "DAI",
+      "address": "0x6De33698e9e9b787e09d3Bd7771ef63557E148bb",
+      "chainId": 84531,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x6B175474E89094C44Da98b954EedeAC495271d0F/logo.pngg"
+    },
+    {
+      "name": "Binance USD",
+      "symbol": "BUSD",
+      "address": "0x4Bf769b05E832FCdc9053fFFBC78Ca889aCb5E1E",
+      "chainId": 84531,
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/9576/thumb/BUSD.png?1568947766"
+    },
+    {
+      "name": "Wrapped Ether",
+      "symbol": "WETH",
+      "address": "0xC1B331261871C7b2B5C91265a177e77b651f9ae2",
+      "chainId": 84531,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png"
+    },
+    {
+      "name": "Tether USD",
+      "symbol": "USDT",
+      "address": "0xf2719572e4E9369cDC061Ef602D0F20f8a42234d",
+      "chainId": 84531,
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png"
+    },
+    {
+      "name": "Mech Swap Token",
+      "symbol": "Mech",
+      "address": "0x64edDA8eB838486B4Fdb5D87AA5b6ed6BCc94E7D",
+      "chainId": 84531,
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/17139/thumb/10631.png?1635718182"
+    },
+    {
+      "name": "Koinark Dex Token",
+      "symbol": "KOI",
+      "address": "0xD0fc859ED1Bb0033b1853cE4e98Eba877A4537D8",
+      "chainId": 84531,
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/13397/thumb/Graph_Token.png?1608145566g"
+    },
+    {
+      "name": "USD//C",
+      "symbol": "USDC",
+      "address": "0xf56dc6695cF1f5c364eDEbC7Dc7077ac9B586068",
+      "chainId": 59140,
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png"
+    },
+    {
+      "name": "Dai Stablecoin",
+      "symbol": "DAI",
+      "address": "0x6De33698e9e9b787e09d3Bd7771ef63557E148bb",
+      "chainId": 59140,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x6B175474E89094C44Da98b954EedeAC495271d0F/logo.pngg"
+    },
+    {
+      "name": "Binance USD",
+      "symbol": "BUSD",
+      "address": "0x4Bf769b05E832FCdc9053fFFBC78Ca889aCb5E1E",
+      "chainId": 59140,
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/9576/thumb/BUSD.png?1568947766"
+    },
+    {
+      "name": "Wrapped Ether",
+      "symbol": "WETH",
+      "address": "0x2C1b868d6596a18e32E61B901E4060C872647b6C",
+      "chainId": 59140,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png"
+    },
+    {
+      "name": "Tether USD",
+      "symbol": "USDT",
+      "address": "0xf2719572e4E9369cDC061Ef602D0F20f8a42234d",
+      "chainId": 59140,
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png"
+    },
+    {
+      "name": "Mech Swap Token",
+      "symbol": "Mech",
+      "address": "0x8B08e6e1EeAE036E1A9F3277329a94545319E20a",
+      "chainId": 59140,
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/17139/thumb/10631.png?1635718182"
+    },
+    {
+      "name": "Koinark Dex Token",
+      "symbol": "KOI",
+      "address": "0x57E33524d66c6a21108ae93D2aDe7A63D61c773c",
+      "chainId": 59140,
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/13397/thumb/Graph_Token.png?1608145566g"
     }
   ]
 }
